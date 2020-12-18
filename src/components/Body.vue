@@ -1,14 +1,13 @@
 <template>
   <div class="hello">
+    Body
   </div>
 </template>
 
 <script>
 export default {
-  name: 'App',
-  props: {
-    msg: String
-  }
+  name :'vue-Body'
+
 }
 </script>
 
